@@ -41,9 +41,9 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
 
 ## 🚀 LeetCode Progress
-![LeetCode Stats](https://leetcard.jacoblin.cool/Yoganeya27?theme=dark&font=Karma&ext=contest)
+![LeetCode Stats](https://leetcard.jacoblin.cool/NEYATK?theme=dark&font=Karma&ext=contest)
 
-🔗 **LeetCode Profile:** https://leetcode.com/Yoganeya27/
+🔗 **LeetCode Profile:** https://leetcode.com/NEYATK/
 
 📌 I regularly upload **LeetCode problems with clean solutions and explanations** to my GitHub,  
 focusing on **DSA, SQL queries, Java & Python problem-solving patterns**.
