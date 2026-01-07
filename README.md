@@ -1,3 +1,12 @@
+<h1 align="center">✨ Hi, I'm <strong>Yoganeya T K</strong> 👋</h1>
+<h3 align="center">Aspiring Data Scientist | Problem Solver | ML & Analytics Enthusiast</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=F75C7E&center=true&vCenter=true&width=650&lines=Data+Science+%7C+Machine+Learning;Python+%7C+SQL+%7C+Problem+Solving;LeetCode+DSA+Practice;Always+Learning+%26+Building+🚀">
+</p>
+
+---
+
 # 💫 About Me:
 🔭 Working on data analysis projects using Python & SQL<br>
 👯 Open to collaborating on data science projects<br>
@@ -6,60 +15,88 @@
 💬 Ask me about Python, SQL, Pandas<br>
 ⚡ Fun fact: I love finding insights in messy data 📊<br>
 
+---
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yoganeya-t-k)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yoganeya.cse@gmail.com)
 
+---
+
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://linkedin.com/in/yoganeya-t-k" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" height="55" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/NEYATK/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="55" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:yoganeya.cse@gmail.com">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" height="55"/>
+  </a>
+</p>
+
+---
+
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=plastic&logo=graphql&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=plastic&logo=angular&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens)
-![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=plastic&logo=spring&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=plastic&logo=vuedotjs&logoColor=%234FC08D)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white)
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=plastic&logo=jenkins&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=plastic&logo=redis&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=plastic&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
 
-## 🚀 LeetCode Progress
-![LeetCode Stats](https://leetcard.jacoblin.cool/NEYATK?theme=dark&font=Karma&ext=contest)
+---
 
-🔗 **LeetCode Profile:** https://leetcode.com/NEYATK/
+## 🔥 LeetCode Stats
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/NEYATK?theme=dark&font=Karma&ext=heatmap" width="85%" />
+</p>
 
-📌 I regularly upload **LeetCode problems with clean solutions and explanations** to my GitHub,  
-focusing on **DSA, SQL queries, Java & Python problem-solving patterns**.
+<p align="center">
+  <img src="https://assets.leetcode.com/static_assets/others/200.gif" height="130"/>
+  <img src="https://assets.leetcode.com/static_assets/others/25100.gif" height="130"/>
+  <img src="https://assets.leetcode.com/static_assets/others/2550.gif" height="130"/>
+</p>
+
+🔗 **LeetCode Profile:** https://leetcode.com/NEYATK/  
+📌 I upload **LeetCode solutions with explanations** to GitHub (DSA, SQL, Java, Python).
+
+---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Yoganeya27&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Yoganeya27&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yoganeya27&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Yoganeya27&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yoganeya27&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Yoganeya27&theme=radical&hide_border=true" height="180"/>
+</p>
+
+---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Yoganeya27&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Yoganeya27&theme=radical&column=6&margin-w=10" />
+</p>
+
+---
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+
 [![](https://visitcount.itsvg.in/api?id=Yoganeya27&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<h3 align="center">⭐ Thanks for visiting! Keep learning & keep solving 🚀</h3>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
