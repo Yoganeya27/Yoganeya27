@@ -1,3 +1,16 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=purple&height=160&section=header&text=Welcome%20to%20My%20GitHub&fontSize=32&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=purple&height=160&section=header&text=Yoganeya's%20GitHub&fontSize=30&fontColor=ffffff"/>
+</p>
+
+<h2 align="center">👋 Hi there, I'm Yoganeya T K</h2>
+
+<p align="center">
+  🎓 Computer Science Student | 📊 Data Science & ML Enthusiast | 🇮🇳 India
+</p>
+
+---
+
 # 💫 About Me:
 🔭 Working on data analysis projects using Python & SQL<br>
 👯 Open to collaborating on data science projects<br>
@@ -6,9 +19,68 @@
 💬 Ask me about Python, SQL, Pandas<br>
 ⚡ Fun fact: I love finding insights in messy data 📊<br>
 
+---
+
+## 🧠 Skills & Tools
+
+### 🧑‍💻 Programming Languages
+<p>
+  <img src="https://skill-icons-fast.vercel.app/api/icons?i=c,cpp,java,python,js&titles=true" />
+</p>
+
+### 🌐 Full Stack & Frameworks
+<p>
+  <img src="https://skill-icons-fast.vercel.app/api/icons?i=html,css,react,angular,vue,nodejs,nextjs,django,spring&titles=true" />
+</p>
+
+### 📊 Data Science, ML & Visualization
+<p>
+  <img src="https://skill-icons-fast.vercel.app/api/icons?i=pandas,numpy,matplotlib,opencv&titles=true" />
+</p>
+
+### ☁️ Cloud & DevOps
+<p>
+  <img src="https://skill-icons-fast.vercel.app/api/icons?i=aws,azure,oracle,docker,jenkins,apache,linux,bash&titles=true" />
+</p>
+
+### 🗄️ Databases & Backend
+<p>
+  <img src="https://skill-icons-fast.vercel.app/api/icons?i=mysql,mongodb,redis,graphql&titles=true" />
+</p>
+
+### 🧰 Version Control & Tools
+<p>
+  <img src="https://skill-icons-fast.vercel.app/api/icons?i=git,github,vscode&titles=true" />
+</p>
+
+---
+
+## 💼 Projects
+
+- 📊 **Exploratory Data Analysis Projects:** Performed end-to-end EDA using Python, Pandas, NumPy, and Matplotlib to extract actionable insights from raw datasets  
+- 🧠 **Machine Learning Models:** Built and evaluated ML models for classification and prediction tasks using real-world datasets  
+- 🗄 **SQL Case Studies:** Solved complex SQL problems involving joins, subqueries, window functions, and performance optimization  
+- 🌐 **Full-Stack Mini Projects:** Integrated frontend and backend technologies with databases and REST APIs  
+- 📈 **Data Visualization Dashboards:** Created insightful charts and visual summaries for decision-making  
+
+---
+
+## 🎯 Areas of Interest
+
+- Data Science & Analytics  
+- Machine Learning & Statistics  
+- Data Visualization & Storytelling  
+- SQL Optimization & Query Design  
+- Backend Development  
+- Cloud Computing  
+
+---
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yoganeya-t-k)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yoganeya.cse@gmail.com)
+
+---
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white)
@@ -40,6 +112,8 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
 
+---
+
 ## 🚀 LeetCode Progress
 ![LeetCode Stats](https://leetcard.jacoblin.cool/NEYATK?theme=dark&font=Karma&ext=contest)
 
@@ -48,16 +122,40 @@
 📌 I regularly upload **LeetCode problems with clean solutions and explanations** to my GitHub,  
 focusing on **DSA, SQL queries, Java & Python problem-solving patterns**.
 
+---
+
+## 🐍 GitHub Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Yoganeya27/Yoganeya27/output/github-snake.svg"/>
+</p>
+
+---
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Yoganeya27&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Yoganeya27&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yoganeya27&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+---
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Yoganeya27&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+---
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+<p align="center">
+  💻 Always open to collaborating on exciting <b>Data Science, ML & Analytics projects</b>. Let’s build something impactful!
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Yoganeya27&label=Profile%20views&color=8e44ad&style=flat" />
+</p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Yoganeya27&icon=0&color=0)](https://visitcount.itsvg.in)
